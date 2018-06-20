@@ -6,7 +6,7 @@ Robinson Andrés Buitrago Pinilla
 
 ### Diagramas  
 - Paquetes  
-![paquetes](paquetes.png)  
+![paquetes](Paquetes.png)  
 
 - Componentes  
 ![componentes](Componentes.png)  
@@ -17,7 +17,7 @@ Robinson Andrés Buitrago Pinilla
 ![secuencia2](Diagrama%20Secuencia%20Administrativos.bmp)  
 
 - Estado
-![estado](estados.bmp)
+![estado](Estados.bmp)
 
 
 
