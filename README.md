@@ -9,7 +9,7 @@ Robinson Andrés Buitrago Pinilla
 ![paquetes](paquetes.png)  
 
 - Componentes  
-![componentes](Componente.png)  
+![componentes](Componentes.png)  
 
 - Secuencia  
 ![secuencia](Diagrama secuencia estudiante.bmp)  
