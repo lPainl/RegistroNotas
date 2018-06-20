@@ -6,10 +6,10 @@ Robinson Andrés Buitrago Pinilla
 
 ### Diagramas  
 - Paquetes  
-![paquetes](paquetes.jpg)  
+![paquetes](paquetes.png)  
 
 - Componentes  
-![componentes](componente.jpg)  
+![componentes](Componente.png)  
 
 - Secuencia  
 ![secuencia](Diagrama secuencia estudiante.bmp)  
