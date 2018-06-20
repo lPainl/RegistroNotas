@@ -13,10 +13,9 @@ Robinson Andrés Buitrago Pinilla
 
 - Secuencia  
 ![secuencia](Diagrama%20Secuencia%20Estudiante.bmp)  
- 
 ![secuencia2](Diagrama%20Secuencia%20Administrativos.bmp)  
 
-- Estado
+- Estado  
 ![estado](Estados.bmp)
 
 
