@@ -2,6 +2,9 @@
 ## Integrantes  
 Robinson Andrés Buitrago Pinilla  
 20141020127  
+Brandon Steven Gomez Guerrero
+20132020626  
+
 
 
 ### Diagramas  
